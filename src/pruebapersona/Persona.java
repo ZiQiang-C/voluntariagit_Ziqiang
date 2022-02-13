@@ -6,6 +6,12 @@
 package pruebapersona;
 import java.util.regex.Pattern;
 
+/**
+ * 
+ * @author 12137
+ * este es programa empiezar
+ * el metodo persona es constructores
+ */
 public class Persona {
 
     private String dni;
